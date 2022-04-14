@@ -38,7 +38,7 @@ body {
 }
 
 .resize {
-  height:70vh
+  height:70%
 }
 .element {
   margin: 20px;
@@ -81,6 +81,10 @@ h1 {
   color: #32a32e;
   font-weight: bold;
 
+}
+
+h2 {
+  text-align: center;
 }
 
 .navbar {
